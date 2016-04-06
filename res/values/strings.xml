@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">prj1</string>
+    <string name="about_Us">about us</string>
+    <string name="dialogueTitle">About Us</string>
+    <string name="hamid">Hamid Soltani 91100905</string>
+    <string name="saeid">Saeid Heshmati 91105506</string>
+    <string name="R">Right</string>
+    <string name="L">Left</string>
+    <string name="D">Down</string>
+    <string name="U">Up</string>
+    <string name="NewGame">New Game</string>
+    <string name="Save">Save</string>
+    <string name="SavedGame">Game Saved</string>
+    <string name="NewGameStarted">New Game Started</string>
+</resources>
